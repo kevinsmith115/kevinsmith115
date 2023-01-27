@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Kevin!
-#### I am software devoloper
 I'm currently enrolled in WGU's Software Engineering program and I'm working to develop my skills.
 
 Skills: Python / JS / HTML / CSS

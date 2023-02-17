@@ -1,8 +1,11 @@
-### Hi there 👋, my name is Kevin!
-I'm currently enrolled in WGU's Software Engineering program and I'm working to develop my skills.
+# Hi there 👋
+## My name is Kevin!
 
-Skills: Python / JS / HTML / CSS
+I'm a software support specalist honing my devolopment skills.
 
+
+
+## Contact
 - 👨‍💻 [LinkedIn](https://www.linkedin.com/in/kevindaresmith/)
 
 

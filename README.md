@@ -1,7 +1,7 @@
 # Hi there 👋
 ## My name is Kevin!
 
-I'm a software support specalist honing my devolopment skills.
+Professional software support specalist and Software Engineering Student at WGU🦉.
 
 
 
